@@ -70,6 +70,34 @@ class Practice_questions
         }
     }
 
+
+/// <summary>
+/// checking Eligibility Criteria
+/// </summary>
+/// <param name="maths">maths marks</param>
+/// <param name="physics">Physics Marks</param>
+/// <param name="chemistry">chemistry Marks</param>
+/// <returns>true or false</returns>
+
+
+    public static bool IsEligible(int maths,int physics,int chemistry)
+    {
+        if(maths<65 || physics<55 || chemistry<50)
+        {
+            return false;
+        }
+        else if((maths+physics+chemistry)<180 || (maths+physics)<140)
+        {
+            return false;
+        }
+        else
+        {
+            return true;
+        }
+        
+    }
+    
+
     
 
 }

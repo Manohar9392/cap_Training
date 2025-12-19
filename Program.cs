@@ -51,12 +51,25 @@ class Program
 
     //ques 3
 
-    Console.WriteLine("Enter a year to check if it is a leap year or not:");
+   /* Console.WriteLine("Enter a year to check if it is a leap year or not:");
     String? input = Console.ReadLine();
     int year;
     year = int.TryParse(input, out year) ? year : 0;
     bool isLeap = Practice_questions.IsLeapYear(year);
     Console.WriteLine(isLeap ? "The year is a leap year." : "The year is not a leap year.");
+*/
+     //ques 4
+
+     Console.WriteLine("Enter the marks of maths,physics,chemistry:");
+        String? input1 = Console.ReadLine();
+        String? input2 = Console.ReadLine();
+        String? input3 = Console.ReadLine();    
+        int maths,physics,chemistry;
+        maths = int.TryParse(input1, out maths) ? maths : 0;
+        physics = int.TryParse(input2, out physics) ? physics : 0;
+        chemistry = int.TryParse(input3, out chemistry) ? chemistry : 0;
+        bool result = Practice_questions.IsEligible(maths, physics, chemistry);
+        Console.WriteLine(result ? "Is Elegible":"Not Eligible");
 
 
         
