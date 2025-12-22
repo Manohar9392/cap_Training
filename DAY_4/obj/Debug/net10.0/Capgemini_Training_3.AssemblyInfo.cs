@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Capgemini_Training_3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b7d3773d44ccd436b549f5d1859cff30cf31241")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f780ea53c37bdfe7680e179a261cc532b93c36e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Capgemini_Training_3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Capgemini_Training_3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

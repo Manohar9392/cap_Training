@@ -1,11 +1,15 @@
 Here we are not Creating default Public Constructer bcz if we call public then memory assigned and unused until explicitly given so we are restricting by making that as private
 -> public int var {get;set;}  properties..
 ->by default values assigned are empty
-->only in Constructer get properties can set the values
+“Properties can be restricted to be set only during object creation using read-only, private setter, or init accessor.”
 {try with set property}
 ->construcerts are best place to know when obj is created and assigned. thats why log history will calculate in constructers.
 ->Fields are private values only accessed in the class only .. By using the properties we can assign the values to Fields.
-->by using sealed keyword we can make class suchthat no child class will inherit this class.
+->by using sealed keyword we can make class suchthat no child class will inherit from this class.
 
 ->By using virtual keyword we can allow the function to overide it in derived classes
 ->By using overide keyword we are overiding the function that is already present in base class with virtual keyword
+
+->{this} reference to current object
+
+->Inorder to call base class methob from chile we will use base.method()

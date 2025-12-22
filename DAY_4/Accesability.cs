@@ -3,8 +3,8 @@ namespace Accesability
 {
     public class Account
     {
-        public required int Id{get;set;}
-        public required string Name{get;set;}
+        public int Id{get;set;}
+        public string? Name{get;set;}
 
         public String GetDetails()
         {
@@ -25,7 +25,7 @@ namespace Accesability
     }
     public class Purchase_account : Account
     {
-        public required string PurchaseInfo{get;set;}
+        public string? PurchaseInfo{get;set;}
 
         public String GetPurchaseDetails()
         {

@@ -7,14 +7,16 @@ using Fields_Oops;
 using Problem;
 using Accesability;
 using System.Security.Principal;
+using System.Linq.Expressions;
 class Program
 {
     public static void Main(string[] args)
     {
         // Visitor vis= new Visitor(1,"manu","Power bank");
         // Visitor vis1=new Visitor(2);
+        // Visitor vis2=null;
         // try{
-        // Visitor vis2=new Visitor(2,"ram");
+        //  vis2=new Visitor(2,"ram");
         // }
         // catch(ArgumentException ex)
         // {
@@ -25,7 +27,11 @@ class Program
         
         // vis.Display();
         // vis1.Display();
-        //vis2.Display();
+        // if(vis2!=null)
+        //  {
+        //     vis2.Display();
+        //  }
+       
         
 
         // Console.WriteLine("Enter first number:");
@@ -37,8 +43,8 @@ class Program
         // add.Display();
 
 
-        // Login_history log=new Login_history(1,"manu","charger");
-        // log.Display();  
+        Login_history log=new Login_history(1,"manu","charger");
+        log.Display();  
 
 
         // Employee emp=new Employee();
@@ -52,12 +58,12 @@ class Program
         // assoc.Rank=-3;
         // Console.WriteLine(assoc.log);
 
-        Account acc= new Account();
-        acc.Id=101;
-        Console.WriteLine(acc.GetDetails());
-        SalesAccount sacc= new SalesAccount();
-        sacc.Id=201;
-        Console.WriteLine(sacc.GetSalesDetails());
+        // Account acc= new Account();
+        // acc.Id=101;
+        // Console.WriteLine(acc.GetDetails());
+        // SalesAccount sacc= new SalesAccount();
+        // sacc.Id=201;
+        // Console.WriteLine(sacc.GetSalesDetails());
 
 
         

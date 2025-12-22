@@ -1,40 +1,51 @@
 using System;
+
 namespace Chaining_Constructers
 {
     public class Login_history
     {
-        public int Id{get; set;}
-        public string Name{get; set;}
-        public string Requirement;
+        public int Id { get
+            {
+                return id;
+            }
+             set
+            {
+                id = value;
+            } }
+        public string? Name { get; set; } 
+        public string? Requirement { get; set; }
 
-        public string Log_History{get;set;}
+        public string? Log_History { get; set; } 
 
         public Login_history()
         {
-            Login_history+=$"Object created on {DateTime.Now.ToString()} /n";
+            Log_History += $"Object created on {DateTime.Now}\n";
         }
-        public Login_history(int id):this()
+
+        public Login_history(int id) : this()
         {
-            Login_history+=$"Id created on {DateTime.Now.ToString()} /n";
-            this.Id=id;
-            
+            Log_History += $"Id created on {DateTime.Now}\n";
+            Id = id;
         }
-        public Login_history(int id,string name):this(id)
+
+        public Login_history(int id, string name) : this(id)
         {
-            Login_history+=$"Name created on {DateTime.Now.ToString()} /n";
-            this.Name=name;
+            Log_History += $"Name created on {DateTime.Now}\n";
+            Name = name;
         }
-        public Login_history(int id,string name,string requirement):this(id,name)
+
+        public Login_history(int id, string name, string requirement) : this(id, name)
         {
-            Login_history+=$"Requirement created on {DateTime.Now.ToString()} /n";
-            this.Requirement=requirement;
+            Log_History += $"Requirement created on {DateTime.Now}\n";
+            Requirement = requirement;
         }
+
         public void Display()
         {
-            Console.WriteLine("Id: "+Id);
-            Console.WriteLine("Name: "+Name);
-            Console.WriteLine("Requirement: "+Requirement); 
-            Console.WriteLine("Log History: "+Log_History);
+            Console.WriteLine("Id: " + Id);
+            Console.WriteLine("Name: " + Name);
+            Console.WriteLine("Requirement: " + Requirement);
+            Console.WriteLine("Log History:\n" + Log_History);
         }
     }
 }

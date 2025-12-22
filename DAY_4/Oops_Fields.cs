@@ -8,9 +8,9 @@ namespace Fields_Oops
         {
             set
             {
-                if(Id>0)
+                if(value>0)
                 {
-                    id=Id;
+                    id=value;
                 }
                 else
                 {
