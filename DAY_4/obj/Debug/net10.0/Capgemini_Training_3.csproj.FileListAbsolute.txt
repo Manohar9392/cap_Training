@@ -1,0 +1,15 @@
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\obj\Debug\net10.0\Capgemini_Training_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\obj\Debug\net10.0\Capgemini_Training_3.AssemblyInfoInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\obj\Debug\net10.0\Capgemini_Training_3.AssemblyInfo.cs
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\obj\Debug\net10.0\Capgemini_Training_3.csproj.CoreCompileInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\obj\Debug\net10.0\Capgemini_Training_3.sourcelink.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\bin\Debug\net10.0\Capgemini_Training_3.exe
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\bin\Debug\net10.0\Capgemini_Training_3.deps.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\bin\Debug\net10.0\Capgemini_Training_3.runtimeconfig.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\bin\Debug\net10.0\Capgemini_Training_3.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\bin\Debug\net10.0\Capgemini_Training_3.pdb
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\obj\Debug\net10.0\Capgemini_Training_3.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\obj\Debug\net10.0\refint\Capgemini_Training_3.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\obj\Debug\net10.0\Capgemini_Training_3.pdb
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\obj\Debug\net10.0\Capgemini_Training_3.genruntimeconfig.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\Day_4\obj\Debug\net10.0\ref\Capgemini_Training_3.dll
