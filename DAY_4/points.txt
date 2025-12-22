@@ -5,4 +5,7 @@ Here we are not Creating default Public Constructer bcz if we call public then m
 {try with set property}
 ->construcerts are best place to know when obj is created and assigned. thats why log history will calculate in constructers.
 ->Fields are private values only accessed in the class only .. By using the properties we can assign the values to Fields.
+->by using sealed keyword we can make class suchthat no child class will inherit this class.
 
+->By using virtual keyword we can allow the function to overide it in derived classes
+->By using overide keyword we are overiding the function that is already present in base class with virtual keyword

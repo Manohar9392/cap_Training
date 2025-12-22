@@ -9,7 +9,11 @@ namespace Oops_2
         public int Num2{get; set;}
         public int Result {get; }
 
-
+        /// <summary>
+        /// Parameterised Constructor
+        /// </summary>
+        /// <param name="num1"></param>
+        /// <param name="num2"></param>
         public Addition(int num1,int num2)
         {
             this.Num1=num1;

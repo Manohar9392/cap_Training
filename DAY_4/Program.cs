@@ -4,6 +4,9 @@ using Constructers;
 using Oops_2;
 using Chaining_Constructers;
 using Fields_Oops;
+using Problem;
+using Accesability;
+using System.Security.Principal;
 class Program
 {
     public static void Main(string[] args)
@@ -38,9 +41,27 @@ class Program
         // log.Display();  
 
 
-        Employee emp=new Employee();
-        emp.Id=5;
-        Console.WriteLine(emp.Employee_id());
+        // Employee emp=new Employee();
+        // emp.Id=5;
+        // Console.WriteLine(emp.Employee_id());
+
+        
+        // Associate assoc=new Associate();
+        // assoc.Id=10;
+        // Console.WriteLine(assoc.Id);
+        // assoc.Rank=-3;
+        // Console.WriteLine(assoc.log);
+
+        Account acc= new Account();
+        acc.Id=101;
+        Console.WriteLine(acc.GetDetails());
+        SalesAccount sacc= new SalesAccount();
+        sacc.Id=201;
+        Console.WriteLine(sacc.GetSalesDetails());
+
+
+        
+
 
 
         
