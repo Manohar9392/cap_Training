@@ -1,0 +1,15 @@
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\obj\Debug\net10.0\Tax_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\obj\Debug\net10.0\Tax_Calculation.AssemblyInfoInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\obj\Debug\net10.0\Tax_Calculation.AssemblyInfo.cs
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\obj\Debug\net10.0\Tax_Calculation.csproj.CoreCompileInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\obj\Debug\net10.0\Tax_Calculation.sourcelink.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\bin\Debug\net10.0\Tax_Calculation.exe
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\bin\Debug\net10.0\Tax_Calculation.deps.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\bin\Debug\net10.0\Tax_Calculation.runtimeconfig.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\bin\Debug\net10.0\Tax_Calculation.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\bin\Debug\net10.0\Tax_Calculation.pdb
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\obj\Debug\net10.0\Tax_Calculation.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\obj\Debug\net10.0\refint\Tax_Calculation.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\obj\Debug\net10.0\Tax_Calculation.pdb
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\obj\Debug\net10.0\Tax_Calculation.genruntimeconfig.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Tax_Calculation\obj\Debug\net10.0\ref\Tax_Calculation.dll

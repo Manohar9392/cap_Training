@@ -1,0 +1,15 @@
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\obj\Debug\net10.0\Upi_Payments.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\obj\Debug\net10.0\Upi_Payments.AssemblyInfoInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\obj\Debug\net10.0\Upi_Payments.AssemblyInfo.cs
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\obj\Debug\net10.0\Upi_Payments.csproj.CoreCompileInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\obj\Debug\net10.0\Upi_Payments.sourcelink.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\bin\Debug\net10.0\Upi_Payments.exe
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\bin\Debug\net10.0\Upi_Payments.deps.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\bin\Debug\net10.0\Upi_Payments.runtimeconfig.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\bin\Debug\net10.0\Upi_Payments.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\bin\Debug\net10.0\Upi_Payments.pdb
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\obj\Debug\net10.0\Upi_Payments.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\obj\Debug\net10.0\refint\Upi_Payments.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\obj\Debug\net10.0\Upi_Payments.pdb
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\obj\Debug\net10.0\Upi_Payments.genruntimeconfig.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_5_Oops\Upi_Payments\obj\Debug\net10.0\ref\Upi_Payments.dll

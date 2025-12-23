@@ -1,0 +1,5 @@
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_training\DAY_5_Oops\upi_payments\upi\obj\Debug\net10.0\upi.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_training\DAY_5_Oops\upi_payments\upi\obj\Debug\net10.0\upi.AssemblyInfoInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_training\DAY_5_Oops\upi_payments\upi\obj\Debug\net10.0\upi.AssemblyInfo.cs
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_training\DAY_5_Oops\upi_payments\upi\obj\Debug\net10.0\upi.csproj.CoreCompileInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_training\DAY_5_Oops\upi_payments\upi\obj\Debug\net10.0\upi.sourcelink.json

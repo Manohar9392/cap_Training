@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\Program\\Program.csproj": {}
+    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_training\\DAY_5_Oops\\Libraries_refrences\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\Program\\Program.csproj": {
+    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_training\\DAY_5_Oops\\Libraries_refrences\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_training\\DAY_5_Oops\\Libraries_refrences\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\Program\\Program.csproj",
+        "projectPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_training\\DAY_5_Oops\\Libraries_refrences\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\reddy\\.nuget\\packages\\",
-        "outputPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\Program\\obj\\",
+        "outputPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_training\\DAY_5_Oops\\Libraries_refrences\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reddy\\AppData\\Roaming\\NuGet\\NuGet.Config"

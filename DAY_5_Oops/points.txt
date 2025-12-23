@@ -1,0 +1,6 @@
+Abstract class Means If you inherited this class then You must implement Abstract method present in this . it cant be Intilized.
+Protected menbers can Only access in their family{child classes only}
+Private ones can access only in class itself
+Internal ones can access within the Namespace itself
+public means every where
+
