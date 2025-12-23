@@ -1,0 +1,15 @@
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\bin\Debug\net10.0\Program.exe
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\bin\Debug\net10.0\Program.deps.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\bin\Debug\net10.0\Program.runtimeconfig.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\bin\Debug\net10.0\Program.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\bin\Debug\net10.0\Program.pdb
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\obj\Debug\net10.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\obj\Debug\net10.0\Program.AssemblyInfoInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\obj\Debug\net10.0\Program.AssemblyInfo.cs
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\obj\Debug\net10.0\Program.csproj.CoreCompileInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\obj\Debug\net10.0\Program.sourcelink.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\obj\Debug\net10.0\Program.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\obj\Debug\net10.0\refint\Program.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\obj\Debug\net10.0\Program.pdb
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\obj\Debug\net10.0\Program.genruntimeconfig.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\day_5_Oops\Libraries_refrences\Program\obj\Debug\net10.0\ref\Program.dll
