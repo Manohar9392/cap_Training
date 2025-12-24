@@ -1,0 +1,15 @@
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\bin\Debug\net10.0\Object_refrences.exe
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\bin\Debug\net10.0\Object_refrences.deps.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\bin\Debug\net10.0\Object_refrences.runtimeconfig.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\bin\Debug\net10.0\Object_refrences.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\bin\Debug\net10.0\Object_refrences.pdb
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\obj\Debug\net10.0\Object_refrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\obj\Debug\net10.0\Object_refrences.AssemblyInfoInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\obj\Debug\net10.0\Object_refrences.AssemblyInfo.cs
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\obj\Debug\net10.0\Object_refrences.csproj.CoreCompileInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\obj\Debug\net10.0\Object_refrences.sourcelink.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\obj\Debug\net10.0\Object_refrences.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\obj\Debug\net10.0\refint\Object_refrences.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\obj\Debug\net10.0\Object_refrences.pdb
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\obj\Debug\net10.0\Object_refrences.genruntimeconfig.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Object_refrences\obj\Debug\net10.0\ref\Object_refrences.dll

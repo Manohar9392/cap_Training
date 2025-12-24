@@ -1,0 +1,15 @@
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\bin\Debug\net10.0\Question.exe
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\bin\Debug\net10.0\Question.deps.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\bin\Debug\net10.0\Question.runtimeconfig.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\bin\Debug\net10.0\Question.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\bin\Debug\net10.0\Question.pdb
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\obj\Debug\net10.0\Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\obj\Debug\net10.0\Question.AssemblyInfoInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\obj\Debug\net10.0\Question.AssemblyInfo.cs
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\obj\Debug\net10.0\Question.csproj.CoreCompileInputs.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\obj\Debug\net10.0\Question.sourcelink.json
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\obj\Debug\net10.0\Question.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\obj\Debug\net10.0\refint\Question.dll
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\obj\Debug\net10.0\Question.pdb
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\obj\Debug\net10.0\Question.genruntimeconfig.cache
+C:\LPUEx_csharp_projects\Capgemini_Training_3\cap_Training\DAY_6_Oops\Question\obj\Debug\net10.0\ref\Question.dll
