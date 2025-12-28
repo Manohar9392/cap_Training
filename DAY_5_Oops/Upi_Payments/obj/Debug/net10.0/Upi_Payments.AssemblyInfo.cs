@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Upi_Payments")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68e4bc2f066ec7bc9894d5575f87c33f9507f46b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4ab959e6ba1fa60ae9e17f9ad81f1771f9cb0da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Upi_Payments")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Upi_Payments")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

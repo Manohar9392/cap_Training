@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\ScienceLib\\ScienceLib.csproj": {}
+    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Libraries_refrences\\Program\\ScienceLib\\ScienceLib.csproj": {}
   },
   "projects": {
-    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\ScienceLib\\ScienceLib.csproj": {
+    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Libraries_refrences\\Program\\ScienceLib\\ScienceLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\ScienceLib\\ScienceLib.csproj",
+        "projectUniqueName": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Libraries_refrences\\Program\\ScienceLib\\ScienceLib.csproj",
         "projectName": "ScienceLib",
-        "projectPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\ScienceLib\\ScienceLib.csproj",
+        "projectPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Libraries_refrences\\Program\\ScienceLib\\ScienceLib.csproj",
         "packagesPath": "C:\\Users\\reddy\\.nuget\\packages\\",
-        "outputPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\ScienceLib\\obj\\",
+        "outputPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Libraries_refrences\\Program\\ScienceLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reddy\\AppData\\Roaming\\NuGet\\NuGet.Config"

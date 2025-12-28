@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_training\\DAY_5_Oops\\upi_payments\\Upi_Payments.csproj": {}
+    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Upi_Payments\\Upi_Payments.csproj": {}
   },
   "projects": {
-    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_training\\DAY_5_Oops\\upi_payments\\Upi_Payments.csproj": {
+    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Upi_Payments\\Upi_Payments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_training\\DAY_5_Oops\\upi_payments\\Upi_Payments.csproj",
+        "projectUniqueName": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Upi_Payments\\Upi_Payments.csproj",
         "projectName": "Upi_Payments",
-        "projectPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_training\\DAY_5_Oops\\upi_payments\\Upi_Payments.csproj",
+        "projectPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Upi_Payments\\Upi_Payments.csproj",
         "packagesPath": "C:\\Users\\reddy\\.nuget\\packages\\",
-        "outputPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_training\\DAY_5_Oops\\upi_payments\\obj\\",
+        "outputPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Upi_Payments\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reddy\\AppData\\Roaming\\NuGet\\NuGet.Config"

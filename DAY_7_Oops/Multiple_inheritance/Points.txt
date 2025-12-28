@@ -1,0 +1,42 @@
+Debugging conceps:-
+call stack will stores the history of methods calling . lifo{last method comthod comes first}
+
+By using {ref} refrence it directly points to address of that variable instead of that value.
+major drawback {ref} is we must intilize with value .
+benifit of {ref} is we can do multiple sequence of results in one method
+
+checked keyword..........
+
+If we are adding two ints one with max-int val and other 1 then the result will go to min val {round robin} technique bcz to ease with gaming applications .
+int a=MaxValue
+int b=1
+int c=a+b // c returns minimum val bcz of round robin technique.
+if b=2 then second min val So on........
+To overcome from above situation there is checked keyword we need to write code snippet in checked block.
+checked{
+    int c=a+b //throw exception stack overflow
+    return c
+}
+
+
+
+out keyword .............
+we can achieve multiple outputs at once.
+
+public void add(int a,out int square,out int half){
+
+};
+
+
+cts->common type system by using this we can overcome datatype compatibility issue..
+var x {based upon value it will auto assign datatype}
+
+datetypes:-
+value type
+reference type
+
+parent dtype is object
+
+object can store any dtype
+converting from primitive to object is boxing
+vice-versa unboxing

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\MathsLib\\MathsLib.csproj": {}
+    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Libraries_refrences\\Program\\MathsLib\\MathsLib.csproj": {}
   },
   "projects": {
-    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\MathsLib\\MathsLib.csproj": {
+    "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Libraries_refrences\\Program\\MathsLib\\MathsLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\MathsLib\\MathsLib.csproj",
+        "projectUniqueName": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Libraries_refrences\\Program\\MathsLib\\MathsLib.csproj",
         "projectName": "MathsLib",
-        "projectPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\MathsLib\\MathsLib.csproj",
+        "projectPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Libraries_refrences\\Program\\MathsLib\\MathsLib.csproj",
         "packagesPath": "C:\\Users\\reddy\\.nuget\\packages\\",
-        "outputPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\day_5_Oops\\Libraries_refrences\\MathsLib\\obj\\",
+        "outputPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_5_Oops\\Libraries_refrences\\Program\\MathsLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reddy\\AppData\\Roaming\\NuGet\\NuGet.Config"
