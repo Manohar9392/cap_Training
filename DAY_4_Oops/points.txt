@@ -1,7 +1,7 @@
 Here we are not Creating default Public Constructer bcz if we call public then memory assigned and unused until explicitly given so we are restricting by making that as private
 -> public int var {get;set;}  properties..
 ->by default values assigned are empty
-“Properties can be restricted to be set only during object creation using read-only, private setter, or init accessor.”
+“Properties can be restricted to be set only during object creation using read-only, private setter
 {try with set property}
 ->construcerts are best place to know when obj is created and assigned. thats why log history will calculate in constructers.
 ->Fields are private values only accessed in the class only .. By using the properties we can assign the values to Fields.
@@ -12,4 +12,8 @@ Here we are not Creating default Public Constructer bcz if we call public then m
 
 ->{this} reference to current object
 
-->Inorder to call base class methob from chile we will use base.method()
+->Inorder to call base class methob from child we will use base.method()
+-> we cant create private class directly if we need to use then make private inner class.
+->if we created any parameterized constructer then we cant create obj without passing parameters. inorder to do that declare default constructer.
+
+------public int id{get;private set;}we can set id variable within the class bcz set have permission private so we can use in the class only..

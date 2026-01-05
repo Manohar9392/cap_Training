@@ -1,0 +1,8 @@
+->Indexers are used to make obj as arrays to retrive info by using Indexing Rather than calling by its name.
+->static class is used for utility and distrubution
+->static constructer will works only once when we are using inside variables present in constructer and supports only static variables only..
+->every thing inside static class must be static only.
+
+
+->partial makes uses with same class already exists by making both classes partial members and methods can be shared within them selvelves..but cant create same method or variable.
+

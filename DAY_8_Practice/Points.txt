@@ -1,0 +1,1 @@
+Garbage collector collects only manageble code msil.

@@ -72,6 +72,7 @@ public class Program
         list2.Add(300);    
         //list2.Add("Capgemini"); //Error
         list2.Sort();
+        
 
         for(int i=0;i<list2.Count;i++)
         {
