@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 using q1;
 
 public class Program

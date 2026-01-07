@@ -1,0 +1,21 @@
+->xml serilization
+#only variable will convert to xml not functions bcz function does not hold any values. and private members will not convert.
+
+xs->{xml schema} is a contract bet publisher and receiver so that they can understand info
+
+
+
+Serilization means converting object to json/xml format
+Deserilization means converting from json to obj 
+
+
+Delegation.................................!
+it is concept of assigning methods to variable like values assigning to variable for that we will use delagate function.
+that function func act as a class we need to create obj by passing method to it . that obj will act as variable whatever function we passed we can call that func by using that obj.
+delegation concept
+n=10
+
+x=n+10
+y=n-5
+z=n*n      ->here all this variables depends on n var if we want change from 10 to 20 no need to change all just assign in n. like that if we need to change functions at every place it is 
+very difficiult manually for that we need to create var assign whichever method we want.
