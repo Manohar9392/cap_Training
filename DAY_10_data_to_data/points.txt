@@ -13,9 +13,30 @@ Delegation.................................!
 it is concept of assigning methods to variable like values assigning to variable for that we will use delagate function.
 that function func act as a class we need to create obj by passing method to it . that obj will act as variable whatever function we passed we can call that func by using that obj.
 delegation concept
+In simple it is Function Pointer
 n=10
 
 x=n+10
 y=n-5
 z=n*n      ->here all this variables depends on n var if we want change from 10 to 20 no need to change all just assign in n. like that if we need to change functions at every place it is 
 very difficiult manually for that we need to create var assign whichever method we want.
+
+
+Reflection:-
+we cannot access private variable from outside class but by using reflection we can achieve that..
+it will read msil/exe file and pull the data we can read the code ...
+we can fetch whatevers properties associated with particular class object.. by using reflection
+{Assembly a = Assembly(path of dll file want to fetch);
+Type[] type=a.GetType();
+foreach(var v in type)
+{
+    Console.WriteLine(v);   //it will give class dtypes in that dll
+}
+
+}
+
+Type[] t=type[0].GetProperties();///it will properties in one class..
+
+
+
+
