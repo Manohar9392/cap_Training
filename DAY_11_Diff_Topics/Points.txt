@@ -1,0 +1,24 @@
+Enum is used when we want define  set of values 
+by default it will give 0 based values or we can customly give the vals...
+int val=(int)enum_name.value    ->it will convert values into correspond int val
+enum_name e1=(enum_name)val     ->it will int val into correspond enum value
+
+
+
+callback is the concept it will call function at certain time if we want to call...
+callback is a delegate variable 
+syntax{callback?.Invoke{"print message}}
+
+
+
+Key points in Exception Handling.........
+1 try multiple catch is possible but only catch will excute between them 
+Dont write any functions inside catch bcz if error occurs then there must be catch to catch that error..
+catch order should be child exception will comes first then parent..
+
+eg dividezeroexception->arithmaticexception->Exception in such order we need to write
+
+
+
+Events
+it is action will perform 

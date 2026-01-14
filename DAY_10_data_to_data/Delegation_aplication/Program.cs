@@ -9,15 +9,19 @@ public class Program
     
         
 
-    private static string Method1(string message)
-    {
-        return $"hello {message}";
-    } 
+    // private static string Method1(string message)
+    // {
+    //     return $"hello {message}";
+    // } 
     
-    private static string HappyNewYear(string message)
-    {
-        return $"Happy new year {message}";
-    }
+    // private static string HappyNewYear(string message)
+    // {
+    //     return $"Happy new year {message}";
+    // }
+    /// <summary>
+    /// Products function []
+    /// </summary>
+    /// <param name="message"></param>
 
     static void Products(string message)
     {

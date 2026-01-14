@@ -1,0 +1,2 @@
+predicate is one of delegate func eith return type bool  will store the condition . when we excute it always returns boll either true or false
+in custom generics T can store any family datatypes.{By using } 
