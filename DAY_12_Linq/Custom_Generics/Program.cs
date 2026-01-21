@@ -46,6 +46,11 @@ public class GlobalType<T>
         return "Student";
     }
 }
+
+public class Globaltype2<T,K>
+{
+    
+}
 public class Program
 {
     public static void Main()

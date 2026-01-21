@@ -1,2 +1,5 @@
 predicate is one of delegate func eith return type bool  will store the condition . when we excute it always returns boll either true or false
-in custom generics T can store any family datatypes.{By using } 
+in custom generics T can store any family datatypes.{By using {is} keyword we can detect datatype}
+
+----------Action<dtype>----------------
+it is type of delegate with no return type if want to perform only action like void funcs then go with action
