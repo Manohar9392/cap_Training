@@ -20,12 +20,14 @@
       "outputPath": "C:\\LPUEx_csharp_projects\\Capgemini_Training_3\\cap_Training\\DAY_6_Oops\\InterfaceMain\\Iprintable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\reddy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\reddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
