@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication_table", "Multiplication_table.csproj", "{D45E4E2F-702B-49A3-AA82-3021A3D378FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapping_using_RefandOut", "..\Swapping_using_RefandOut\Swapping_using_RefandOut.csproj", "{DBE1D918-29C8-4B16-8C1E-706B8BFD76D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45E4E2F-702B-49A3-AA82-3021A3D378FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45E4E2F-702B-49A3-AA82-3021A3D378FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45E4E2F-702B-49A3-AA82-3021A3D378FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45E4E2F-702B-49A3-AA82-3021A3D378FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE1D918-29C8-4B16-8C1E-706B8BFD76D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE1D918-29C8-4B16-8C1E-706B8BFD76D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE1D918-29C8-4B16-8C1E-706B8BFD76D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE1D918-29C8-4B16-8C1E-706B8BFD76D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AACB60FC-448D-4470-9FDA-72572673D21E}
+	EndGlobalSection
+EndGlobal
