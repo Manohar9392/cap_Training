@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_handling_BankAccount_withdrawl", "Exception_handling_BankAccount_withdrawl.csproj", "{4B6A700E-A6DB-400C-8C09-41F39F7B6F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_bonus_processing", "..\Employee_bonus_processing\Employee_bonus_processing.csproj", "{B8530319-5AE5-4EE6-B900-ED9AC319C015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login_Attempts", "..\Login_Attempts\Login_Attempts.csproj", "{93490F67-4C8F-4974-868D-E417A9E46D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Propagation_Across_Layers", "..\Exception_Propagation_Across_Layers\Exception_Propagation_Across_Layers.csproj", "{EB1AEA9F-D2CF-4C13-8759-223A4AC61E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safe_Numeric_Input_Handling", "..\Safe_Numeric_Input_Handling\Safe_Numeric_Input_Handling.csproj", "{A052D6A6-2099-4104-B925-2E2B55BC88DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order_Processing_System", "..\Order_Processing_System\Order_Processing_System.csproj", "{E7D22A04-7396-4FB9-80B8-B09EE4BD4E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B6A700E-A6DB-400C-8C09-41F39F7B6F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6A700E-A6DB-400C-8C09-41F39F7B6F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6A700E-A6DB-400C-8C09-41F39F7B6F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6A700E-A6DB-400C-8C09-41F39F7B6F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8530319-5AE5-4EE6-B900-ED9AC319C015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8530319-5AE5-4EE6-B900-ED9AC319C015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8530319-5AE5-4EE6-B900-ED9AC319C015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8530319-5AE5-4EE6-B900-ED9AC319C015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93490F67-4C8F-4974-868D-E417A9E46D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93490F67-4C8F-4974-868D-E417A9E46D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93490F67-4C8F-4974-868D-E417A9E46D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93490F67-4C8F-4974-868D-E417A9E46D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB1AEA9F-D2CF-4C13-8759-223A4AC61E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1AEA9F-D2CF-4C13-8759-223A4AC61E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1AEA9F-D2CF-4C13-8759-223A4AC61E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1AEA9F-D2CF-4C13-8759-223A4AC61E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A052D6A6-2099-4104-B925-2E2B55BC88DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A052D6A6-2099-4104-B925-2E2B55BC88DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A052D6A6-2099-4104-B925-2E2B55BC88DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A052D6A6-2099-4104-B925-2E2B55BC88DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D22A04-7396-4FB9-80B8-B09EE4BD4E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D22A04-7396-4FB9-80B8-B09EE4BD4E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D22A04-7396-4FB9-80B8-B09EE4BD4E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D22A04-7396-4FB9-80B8-B09EE4BD4E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {663AEC41-FAE0-4DC7-86B1-971C6B052F81}
+	EndGlobalSection
+EndGlobal
