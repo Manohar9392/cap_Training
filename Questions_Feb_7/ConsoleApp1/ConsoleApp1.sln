@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detect_fraud_transactions", "..\Detect_fraud_transactions\Detect_fraud_transactions.csproj", "{C391BACB-A51B-4846-BC9F-D616E29B74D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workflow_Engine", "..\Workflow_Engine\Workflow_Engine.csproj", "{1AECF17C-706E-42E9-9719-E9BCD19D7F18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate_detection_with_fuzzyMachine", "..\Duplicate_detection_with_fuzzyMachine\Duplicate_detection_with_fuzzyMachine.csproj", "{2C34C89A-2576-4D33-9F63-8D7A47E60B9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Large_File_Log_Analyzer", "..\Large_File_Log_Analyzer\Large_File_Log_Analyzer.csproj", "{4CB09D8C-19F5-48E7-8D67-39C3941638E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "End-to-End_Mini_Order_System", "..\End-to-End_Mini_Order_System\End-to-End_Mini_Order_System.csproj", "{625EA7BC-C547-4052-A707-F0569AF73DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C391BACB-A51B-4846-BC9F-D616E29B74D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C391BACB-A51B-4846-BC9F-D616E29B74D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C391BACB-A51B-4846-BC9F-D616E29B74D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C391BACB-A51B-4846-BC9F-D616E29B74D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AECF17C-706E-42E9-9719-E9BCD19D7F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AECF17C-706E-42E9-9719-E9BCD19D7F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AECF17C-706E-42E9-9719-E9BCD19D7F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AECF17C-706E-42E9-9719-E9BCD19D7F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C34C89A-2576-4D33-9F63-8D7A47E60B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C34C89A-2576-4D33-9F63-8D7A47E60B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C34C89A-2576-4D33-9F63-8D7A47E60B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C34C89A-2576-4D33-9F63-8D7A47E60B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB09D8C-19F5-48E7-8D67-39C3941638E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB09D8C-19F5-48E7-8D67-39C3941638E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB09D8C-19F5-48E7-8D67-39C3941638E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB09D8C-19F5-48E7-8D67-39C3941638E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625EA7BC-C547-4052-A707-F0569AF73DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625EA7BC-C547-4052-A707-F0569AF73DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625EA7BC-C547-4052-A707-F0569AF73DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625EA7BC-C547-4052-A707-F0569AF73DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA42D041-9AA4-48F7-990C-9A4E483D78F5}
+	EndGlobalSection
+EndGlobal
