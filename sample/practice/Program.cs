@@ -1,70 +1,139 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace Practice
 {
-    public class Bike
-    {
-        public string Model { get; set; }
-        public string Brand { get; set; }
-        public int PricePerDay { get; set; }
-    }
+    
 
     public class Program
     {
-        public static SortedDictionary<int, Bike> bikeDetails =
-            new SortedDictionary<int, Bike>();
-
-        // Group bikes by Brand
-       public SortedDictionary<string, List<Bike>> GroupByBrand()
-{
-            SortedDictionary<string, List<Bike>> result =
-                new SortedDictionary<string, List<Bike>>();
-
-            foreach (Bike bike in bikeDetails.Values)
-            {
-                if (!result.ContainsKey(bike.Brand))
-                {
-                    result[bike.Brand] = new List<Bike>();
-                }
-
-                result[bike.Brand].Add(bike);
-            }
-
-            return result;
-}
-
-        public void AddBikeDetails(string model, string brand, int pricePerDay)
-        {
-            Bike bike = new Bike
-            {
-                Model = model,
-                Brand = brand,
-                PricePerDay = pricePerDay
-            };
-
-            bikeDetails.Add(bikeDetails.Count + 1, bike);
-        }
-
+        
         public static void Main()
         {
-            Program program = new Program();
 
-            program.AddBikeDetails("Pulsar", "Bajaj", 500);
-            program.AddBikeDetails("Activa", "Honda", 300);
-            program.AddBikeDetails("FZ", "Yamaha", 400);
-            program.AddBikeDetails("Shine", "Honda", 350);
 
-            // Display bikes grouped by brand
-            foreach (var brand in program.GroupByBrand())
-            {
-                Console.WriteLine($"Brand: {brand.Key}");
-                foreach (var bike in brand.Value)
+
+
+
+            ////collections
+            //ArrayList array=new ArrayList();
+            //array.Add(1);
+            //array.Add(2);
+            //array.Add(3);
+            //array.Add('a');
+
+
+            ////Generics
+
+            //List<int> list=new List<int>();
+            //list.Add(1);
+            //list.Add(2);
+            //list.Add(3);
+            //list.Add(4);
+
+            //foreach(var v in array)
+            //{
+            //    Console.WriteLine(v);
+            //}
+
+
+            //foreach(int a in list)
+            //{
+            //    Console.WriteLine(a);
+            //}
+            //Console.ReadLine();
+
+
+            //string name ="manohar" ;
+            //char[] arr=name.ToCharArray();
+            ////int i = 0;
+            ////int j = name.Length - 1;
+            ////while (i < j)
+            ////{
+            ////    char temp=arr[i];
+            ////    arr[i]=arr[j];
+            ////    arr[j]=temp;
+            ////    i++;
+            ////    j--;
+
+            ////}
+
+            //Dictionary<char,int> dic = new Dictionary<char,int>();
+
+            //foreach (char c in arr)
+            //{
+            //    if(!dic.ContainsKey(c))
+            //    {
+            //        dic.Add(c, 1);
+            //    }
+            //    else
+            //    {
+            //        dic[c]++;
+            //    }
+            //}
+
+
+            //foreach (var c in dic)
+            //{
+            //    Console.WriteLine(c.Key + ": " + c.Value);
+            //}
+
+            //Console.ReadLine();
+
+
+            //string result = "";
+
+            //foreach(var v in arr)
+            //{
+            //    result += v;
+
+            //}
+            //Console.WriteLine(result);
+
+            //Console.ReadLine();
+
+          
+                // Take input
+                Console.Write("Enter first word: ");
+                string word1 = Console.ReadLine();
+            char[] arr1=word1.ToCharArray();
+
+                Console.Write("Enter second word: ");
+                string word2 = Console.ReadLine();
+            char[] arr2=word2.ToCharArray();
+
+                int deleteCount = 0;
+
+                // Check each character of word1
+                foreach (char ch in arr1)
                 {
-                    Console.WriteLine($"  Model: {bike.Model}, Price: {bike.PricePerDay}");
+                    if (!arr2.Contains(ch))
+                    {
+                    
+
+
+                        deleteCount++;
+                    }
+                else
+                {
+                    arr2.Remove(ch);
                 }
-            }
-        }
+                }
+
+                // Output result
+                Console.WriteLine("Number of deletions required from word1: " + deleteCount);
+
+            Console.ReadLine();
+         
+        
+
+
+
     }
+
+
 }
+}
+
