@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gmail_validation", "Gmail_validation.csproj", "{F661132D-A68A-4EA0-9F80-B333D29BFA67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge_two_sorted_arrays", "..\string_based_ques\Merge_two_sorted_arrays.csproj", "{E90784F7-0E33-4C8B-8308-D227F2A5C1FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F661132D-A68A-4EA0-9F80-B333D29BFA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F661132D-A68A-4EA0-9F80-B333D29BFA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F661132D-A68A-4EA0-9F80-B333D29BFA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F661132D-A68A-4EA0-9F80-B333D29BFA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90784F7-0E33-4C8B-8308-D227F2A5C1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90784F7-0E33-4C8B-8308-D227F2A5C1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90784F7-0E33-4C8B-8308-D227F2A5C1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90784F7-0E33-4C8B-8308-D227F2A5C1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28DBF8E6-BFEC-4E67-B0B1-D332A1AB19EA}
+	EndGlobalSection
+EndGlobal
