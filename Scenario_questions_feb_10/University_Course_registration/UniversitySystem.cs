@@ -45,7 +45,7 @@ namespace University_Course_Registration_System
                 throw new ArgumentException("Student already present.");
             }
             Student student = new Student(id, name, major, maxCredits, completedCourses);
-            Students.Add(major,student);
+            Students.Add(major, student);
         }
 
         public bool RegisterStudentForCourse(string studentId, string courseCode)
@@ -58,7 +58,7 @@ namespace University_Course_Registration_System
             {
                 var student = Students[studentId];
                 var course = AvailableCourses[courseCode];
-                student.AddCourse( course);
+                student.AddCourse(course);
                 Console.WriteLine("Course assigned to Student.");
                 return true;
             }

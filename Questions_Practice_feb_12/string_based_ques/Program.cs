@@ -49,8 +49,6 @@ public class Program
     */
     #endregion
 
-
-
     #region palindrome checking
     /*
     public static bool IsPalindrome(string input)
@@ -85,9 +83,9 @@ public class Program
     */
     #endregion
 
-
-
     #region reverse a string whithout built in
+
+    /*
 
     public static string reverse(string input)
     {
@@ -117,7 +115,87 @@ public class Program
         Console.WriteLine(reverse(input));
 
     }
+    */
 
     #endregion
+
+    #region Frequency of numbers
+    /*
+    public static void Main(string[] args)
+    {
+        int[] arr = { 1, 2, 3, 4, 2, 3, 2, 4, 4, 2, 2, 4, 5, 7, 4, 2, 1, 6, 2 };
+        Dictionary<int, int> result = new Dictionary<int, int>();
+        foreach (var v in arr)
+        {
+            if (result.ContainsKey(v))
+            {
+                result[v] += 1;
+            }
+            else
+            {
+                result[v] = 1;
+            }
+        }
+        foreach (var v in result)
+        {
+            Console.WriteLine($"{v.Key} : {v.Value}");
+        }
+    }
+    */
+
+
+    #endregion
+
+    #region Sum of elements in Array
+    /*
+    public static void Main(string[] args)
+    {
+        List<int> arr = new List<int> { 1, 2, 3, 4, 5, 2, 5, 3, 5, 6, 3, 35, 6, 6 };
+        int sum_result = 0;
+        foreach (var v in arr)
+        {
+            sum_result += v;
+
+        }
+        Console.WriteLine(sum_result);
+    }
+    */
+    #endregion
+
+    #region Duplicates Removing
+    /*
+    public static void Main(string[] args)
+    {
+        List<int> arr = new List<int> { 1, 2, 3, 4, 5, 2, 5, 3, 5, 6, 3, 35, 6, 6 };
+        HashSet<int> set = new HashSet<int>();
+        foreach (var v in arr)
+        {
+            set.Add(v);
+        }
+        foreach (var v in set)
+        {
+            Console.WriteLine(v);
+        }
+    }
+    */
+    #endregion
+
+    #region Finding Largest Element
+    public static void Main(string[] args)
+    {
+        List<int> arr = new List<int> { 1, 2, 3, 4, 5, 2, 5, 3, 5, 6, 3, 35, 6, 6 };
+        int Largest_val = int.MinValue;
+        foreach (var v in arr)
+        {
+            if (v > Largest_val)
+            {
+                Largest_val = v;
+            }
+        }
+        Console.WriteLine(Largest_val);
+
+    }
+    #endregion
+
 
 }
